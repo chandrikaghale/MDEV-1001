@@ -1,2 +1,2 @@
 # MDEV-1001
-my first name
+My name is Chandrika Ghale.I am currently studying mobile application development in Georgian College.
