@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "ICE2DB",
+            "database": "C:\\sqlite\\ICE2DB"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
